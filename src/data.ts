@@ -15,13 +15,13 @@ export const skills: Skill[] = [
   { label: "C++", icon: "fas fa-terminal", category: "lang" },
   { label: "HTML5 / CSS3", icon: "fab fa-html5", category: "lang" },
   { label: "SQL", icon: "fas fa-database", category: "lang" },
-  
+
   { label: "React", icon: "fab fa-react", category: "fw" },
   { label: "Node.js / Express", icon: "fab fa-node-js", category: "fw" },
   { label: "Tailwind CSS", icon: "fab fa-css3-alt", category: "fw" },
   { label: "PyTorch / OpenCV", icon: "fas fa-brain", category: "fw" },
   { label: "Django / Flask", icon: "fab fa-python", category: "fw" },
-  
+
   { label: "Linux", icon: "fab fa-linux", category: "tool" },
   { label: "Git / GitHub", icon: "fab fa-github", category: "tool" },
   { label: "MongoDB", icon: "fas fa-leaf", category: "tool" },
@@ -131,7 +131,7 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/Manvikamboz/Startora",
     category: "creative",
     imageUrl: "/startora.png",
-    websiteUrl: "https://manvikamboz.github.io/Startora/",
+    websiteUrl: "https://can-startora.github.io/Startora-landing-web/",
   },
   {
     icon: "fas fa-robot",
